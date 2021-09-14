@@ -1,6 +1,6 @@
-### Hii there, I'm Charith -  [Portfolio website][website] 👋
+### Hii there, I'm Charith -  [![Website](https://pc-website.netlify.app/)] 👋
 
-[![Website](https://pc-website.netlify.app/)]
+
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
