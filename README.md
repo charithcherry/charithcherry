@@ -11,9 +11,9 @@
 - 📫 How to reach me: **charithcherry1100@gmail.com**
 - ⚡ Fun fact: I love to play football 
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/p-charith-0068281aa/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/charith_cherry01/)
+[<img align="left" alt="charith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/p-charith-0068281aa/)
+[<img align="left" alt="charith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/charith_cherry01/)
 
 <br />
