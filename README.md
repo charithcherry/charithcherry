@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **-**
 - 👨‍💻 All of my projects are available at [portfolio]()
 - 💬 Ask me about **anything**
-- 📫 How to reach me: **rohandinesh.blr@gmail.com**
+- 📫 How to reach me: **charithcherry1100@gmail.com**
 
 ### Connect with me:
 
