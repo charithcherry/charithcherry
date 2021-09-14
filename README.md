@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Projects in Datascience and AIML domain**
 - 👨‍💻 All of my projects are available at **[portfolio](https://github.com/charithcherry?tab=repositories)**
 - 💬 Ask me about **anything**
--  ![image](https://user-images.githubusercontent.com/47473600/133321170-5f00842e-7820-4f48-ad8e-3a21d2174978.png) [My Resume](https://drive.google.com/drive/folders/111OtbP0dLg78-0AH9c9fOo3a5YoWrBt0?usp=sharing) 
+-  ![image](https://user-images.githubusercontent.com/47473600/133321170-5f00842e-7820-4f48-ad8e-3a21d2174978.png) [My Resume](https://drive.google.com/file/d/1HcsfSQLBOUikSrKvh7J77s8oy3ADXyEh/view?usp=sharing) 
 - 📫 How to reach me: **charithcherry1100@gmail.com**
 - ⚡ Fun fact: I love to play football 
 
