@@ -15,7 +15,9 @@
 
 [<img align="left" alt="charith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/p-charith-0068281aa/)
 [<img align="left" alt="charith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/charith_cherry01/)
-
+<a href="https://www.hackerrank.com/charithcherry111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohandinesh_blr" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/charithcherry1100/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohandineshblr/profile" height="30" width="40" /></a>
+<a href="https://discord.gg/#9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7775" height="30" width="40" /></a>
 <br />
 
 ## Languages and Tools:
