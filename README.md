@@ -1,4 +1,4 @@
-### Hii there, I'm Charith -  [![Website](https://pc-website.netlify.app/)] 👋
+### Hii there, I'm Charith -  [(https://pc-website.netlify.app/)] 👋
 
 
 
