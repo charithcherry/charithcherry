@@ -1,15 +1,14 @@
-### Hii there, I'm Charith -  [(https://pc-website.netlify.app/)] 👋
+### Hii there, I'm Charith - [My Website](https://pc-website.netlify.app/) 👋
+ 
 
+## I'm a Data Science and AIML enthusiast
 
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on **Data science and AIML projects**
+- 🌱 I’m currently exploring **Data science**
+- 👯 I’m looking to collaborate on **-**
+- 👨‍💻 All of my projects are available at [portfolio]()
+- 💬 Ask me about **anything**
+- 📫 How to reach me: **rohandinesh.blr@gmail.com**
 
 ### Connect with me:
 
