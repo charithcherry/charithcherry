@@ -17,3 +17,4 @@
 [<img align="left" alt="charith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/charith_cherry01/)
 
 <br />
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=charithcherry&show_icons=true alt=charithcherry /> </p>
