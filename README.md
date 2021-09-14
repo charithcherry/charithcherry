@@ -3,12 +3,13 @@
 
 ## I'm a Data Science and AIML enthusiast
 
-- 🔭 I’m currently working on **Data science and AIML projects**
-- 🌱 I’m currently exploring **Data science**
+- 🌱 I’m currently exploring **Data science and MLOPS**
+- 🔭 I’m currently working on **Data science and Computer Vision projects**
 - 👯 I’m looking to collaborate on **-**
-- 👨‍💻 All of my projects are available at [portfolio]()
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/charithcherry?tab=repositories)
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **charithcherry1100@gmail.com**
+- ⚡ Fun fact: I love to play football 
 
 ### Connect with me:
 
