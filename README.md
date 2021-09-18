@@ -34,8 +34,8 @@
 
 * * * 
 
-![P Charith's GitHub stats](https://github-readme-stats.vercel.app/api?username=charithcherry&show_icons=true&theme=radical)
+![P Charith's GitHub stats](https://github-readme-stats.vercel.app/api?username=charithcherry&show_icons=true&theme=cobalt)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithcherry&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithcherry&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 * * * 
