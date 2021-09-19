@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Data science and MLOPS**
 - 🔭 I’m currently working on **Data science and Computer Vision projects**
-- 👯 I’m looking to collaborate in general on **Projects in Datascience and AIML domain** and specific on **End to End Data Science Project**
+- 👯 I’m looking to collaborate in general on **Projects in Datascience and AIML domain** and specifically on **End to End Data Science Project**
 - 👨‍💻 All of my projects are available at **[portfolio](https://github.com/charithcherry?tab=repositories)**
 - 💬 Ask me about **anything**
 -  ![image](https://user-images.githubusercontent.com/47473600/133321170-5f00842e-7820-4f48-ad8e-3a21d2174978.png) [My Resume](https://drive.google.com/file/d/1HcsfSQLBOUikSrKvh7J77s8oy3ADXyEh/view?usp=sharing) 
