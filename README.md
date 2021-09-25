@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything**
 - <img align="left" alt="charith | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/47473600/133321170-5f00842e-7820-4f48-ad8e-3a21d2174978.png"/>[My Resume](https://drive.google.com/file/d/1HcsfSQLBOUikSrKvh7J77s8oy3ADXyEh/view?usp=sharing) 
 - 📫 How to reach me: **charithcherry1100@gmail.com**
-- ⚡ Fun fact: I love to play football and cricket 
+- ⚡ Fun fact: I love watching movies and playing football and cricket 
 
 ## Connect with me:
 
