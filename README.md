@@ -3,7 +3,7 @@
 
 ## I'm a Data Science and AIML enthusiast
 
-- 🌱 I’m currently exploring **Data science and MLOPS**
+- 🌱 I’m currently exploring **Data science, Big Data and MLOPS**
 - 🔭 I’m currently working on **Data science and Computer Vision projects**
 - 👯 I’m looking to collaborate in general on **Projects in Datascience and AIML domain** and specifically on **End to End Data Science Project**
 - 👨‍💻 All of my projects are available at **[portfolio](https://github.com/charithcherry?tab=repositories)**
