@@ -1,6 +1,5 @@
 # Hii there, I'm Charith - [My Website](https://pc-website.netlify.app/) 👋
  
-
 ## I'm a Data Science and AIML enthusiast
 
 - 🌱 I’m currently exploring **Data science, Big Data and MLOPS**
