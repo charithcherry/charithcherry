@@ -11,7 +11,6 @@
 - 📫 How to reach me: **charithcherry1100@gmail.com**
 - ⚡ Fun fact: I love watching movies and playing football and cricket 
 
-
 ## Connect with me:
 
 [<img align="left" alt="charith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/p-charith-0068281aa/)
