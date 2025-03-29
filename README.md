@@ -1,13 +1,14 @@
-# Hii there, I'm Charith - [My Website](https://pc-website.netlify.app/) 👋
+# Hii there, I'm Charith - [My Website](https://charithcherry.github.io/Portfolio-website/) 👋
  
 ## I'm a Data Science and AIML enthusiast
 
-- 🌱 I’m currently exploring **Data science, Big Data and MLOPS**
-- 🔭 I’m currently working on **Data science and Computer Vision projects**
-- 👯 I’m looking to collaborate in general on **Projects in Datascience and AIML domain** and specifically on **End to End Data Science Project**
+I am a passionate data scientist and software developer currently pursuing my Master of Science in Computer Science at the University of Colorado Boulder. With expertise in Machine Learning, Deep Learning, and Artificial Intelligence, I am dedicated to applying cutting-edge data science techniques to solve real-world problems. I am currently focused on research projects that enhance model generalization and improve performance in environments with minimal labeled data, particularly through data augmentation and zero-shot learning approaches. My goal is to contribute to the growing field of AI by developing innovative solutions that push the boundaries of what machine learning can achieve.
+
+In addition to my academic work, I have hands-on experience in developing AI-driven applications and data engineering solutions. I have worked on optimizing A/B testing frameworks, integrating real-time analytics, and developing human pose estimation solutions for fitness applications. I have also led projects focused on improving data processing times and optimizing system performance using advanced tools like Azure, Databricks, and Spark. These experiences have allowed me to apply AI in practical, impactful ways, and I am excited to continue leveraging my skills to drive innovative solutions in technology.
+
 - 👨‍💻 All of my projects are available at **[portfolio](https://github.com/charithcherry?tab=repositories)**
 - 💬 Ask me about **anything**
-- <img align="left" alt="charith | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/47473600/133321170-5f00842e-7820-4f48-ad8e-3a21d2174978.png"/>[My Resume](https://drive.google.com/file/d/1hqeQfeO6nbX21YwYuLQ5OxpZr5T5hBVx/view?usp=sharing) 
+- <img align="left" alt="charith | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/47473600/133321170-5f00842e-7820-4f48-ad8e-3a21d2174978.png"/>[My Resume](https://drive.google.com/file/d/1CVvtNp03OPhSOTYPwjZ2HACsPx4czcjk/view?usp=sharing)
 - 📫 How to reach me: **charithcherry1100@gmail.com**
 - ⚡ Fun fact: I love watching movies and playing football and cricket 
 
